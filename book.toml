@@ -1,0 +1,6 @@
+[book]
+authors = ["Mateus Furquim"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Bevy Foo: Game Dev Tutorial"
